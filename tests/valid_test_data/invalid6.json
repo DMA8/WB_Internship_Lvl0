@@ -1,0 +1,49 @@
+{
+  "order_uid": "b563feb7b2b84b6test122",
+  "track_number": "WBI",
+  "entry": "WBIL1",
+  "delivery": {
+    "name": "Test Testov2",
+    "phone": "+97200000002",
+    "zip": "26398092",
+    "city": "Kiryat Mozkin2",
+    "address": "Ploshad Mira 152",
+    "region": "Kraiot2",
+    "email": "test@gmail.com2"
+  },
+  "payment": {
+    "transaction": "b563feb7b2b84b6test122",
+    "request_id": "",
+    "currency": "USD",
+    "provider": "wbpay",
+    "amount": 1817,
+    "payment_dt": 1637907727,
+    "bank": "alpha",
+    "delivery_cost": 1500,
+    "goods_total": 317,
+    "custom_fee": 0
+  },
+  "items": [
+    {
+      "chrt_id": 9934930,
+      "track_number": "WBI",
+      "price": 453,
+      "rid": "21ab4219087a764ae0btest1",
+      "name": "Mascaras",
+      "sale": 30,
+      "size": "0",
+      "total_price": 317,
+      "nm_id": 2389211,
+      "brand": "Vivienne Sabo",
+      "status": 202
+    }
+  ],
+  "locale": "en",
+  "internal_signature": "",
+  "customer_id": "aboba2",
+  "delivery_service": "meest",
+  "shardkey": "9",
+  "sm_id": 99,
+  "date_created": "2021-11-26T06:22:19Z",
+  "oof_shard": "hek"
+}
